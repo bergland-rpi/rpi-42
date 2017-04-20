@@ -1,4 +1,4 @@
-brightness=100
+brightness=255
 R=0
 G=0
 B=0
